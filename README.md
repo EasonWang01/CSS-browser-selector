@@ -1,6 +1,9 @@
 # CSS-browser-selector
 將不同瀏覽器指定不同樣式
 
+1.先include上面的js file
+
+2.新建一個style如下
 
 範例
 ```
